@@ -1,0 +1,15 @@
+.users{
+    padding:20px;
+    background-color: whitesmoke;
+    list-style: none;
+    margin:0 auto;
+    width:50%;
+    border-radius: 10px;
+
+}
+
+.users li{
+    border: solid rgb(196, 164, 226) 1px;
+    margin:10px auto;
+    padding:5px;
+}
